@@ -1,0 +1,13 @@
+.cellule
+{
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    background-color: white;
+    font-size: 40px;
+}
+
+.jouable
+{
+    color: white;
+}
